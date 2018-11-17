@@ -37,6 +37,7 @@ color:white;
  <form action="viewticket.do" method="post">
 <div id="home">
 <a href="avnlogin.jsp">Logout</a>
+	<a href="avnlogin.jsp">Home</a>
 </div>
 <h1 align="left" style="font-size: medium;color: #4d4d69;">Hi Guest..</h1>
 <h2 align="left" style="position: absolute;top: 80px;left: 328px;color: #4d4d69;">WELCOME TO YOUR ACCOUNT OVERVIEW</h2><br>
